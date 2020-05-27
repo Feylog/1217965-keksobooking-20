@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 - Студент: [Владимир Агаджанов](https://up.htmlacademy.ru/javascript/20/user/1217965).
-- Наставник: [Евгений Щеколдин](https://htmlacademy.ru/profile/id861059)
+- Наставник: [Евгений Щеколдин](https://htmlacademy.ru/profile/id861059).
 
 ---
 
